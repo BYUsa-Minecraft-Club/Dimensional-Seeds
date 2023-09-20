@@ -1,0 +1,3 @@
+accessWidener v2 named
+
+mutable    field    net/minecraft/world/dimension/DimensionOptions    CODEC    Lcom/mojang/serialization/Codec;

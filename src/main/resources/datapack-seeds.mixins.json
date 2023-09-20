@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"package": "showercurtain.datapack_seeds.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"DimensionOptionsMixin",
+		"MinecraftServerMixin",
+		"ServerWorldMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
